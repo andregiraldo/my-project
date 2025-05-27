@@ -1,1 +1,7 @@
-
+{
+  "name": "estimador-costos",
+  "version": "1.0.0",
+  "dependencies": {
+    "openai": "^4.10.0"
+  }
+}
